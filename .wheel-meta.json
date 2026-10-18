@@ -1,0 +1,22 @@
+{
+  "wheel_id": 403,
+  "structure": "umbrella",
+  "slug": "theseocompanybrisbane-com-101",
+  "project": "seo-services-brisbane-timeline-54ce748fbf236a42125aac0609d31e77",
+  "parent_t1_ref": "theseocompanybrisbane-com-150",
+  "node_role": "feeder",
+  "money_target": "theseocompanybrisbane.com.au",
+  "primary_kw": "seo services brisbane timeline",
+  "intended_url": "https://sites-e470-2.web.app/seo-services-brisbane-timeline-54ce748fbf236a42125aac0609d31e77/",
+  "tier": "T2",
+  "writeback_nonce": "7ae1c780d349a996",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/seo-services-brisbane-f290305ce4ca1652b023caf5e7e057eadfa0254d/",
+      "anchor": "the seo services brisbane overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
